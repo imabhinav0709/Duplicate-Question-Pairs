@@ -1,5 +1,8 @@
 # ❓ Quora Duplicate Question Pairs Detector
 
+## Live Demo
+🚀 Deployed App: https://duplicate-question-pairs-fiit.onrender.com/
+
 A machine learning-powered web application that predicts whether two Quora questions are duplicates — i.e., whether they ask the same thing or share the same intent.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
